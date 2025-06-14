@@ -22,9 +22,3 @@ else:# operator == "Divide":
     z = x / y
     print(z)
 
-
-
-import os
-
-print(os.path.abspath(__file__))
-
